@@ -1,8 +1,5 @@
 module.exports ={
-        '/ai/tensorflow/':require('../ai/tensorflow/sidebar'),
-	//"/ai/tensorflow/":['','first','second'],
-	'/ai/algorithm/':require('../ai/algorithm/sidebar'),
-	'/android/':require('../android/sidebar'),
-	'/others/':require('../others/sidebar'),
-
+      "/ai/tensorflow/":['','first','second'],
+      '/android/':['','基础','进阶'],
+      '/others/':['','guoer','qinyuanchun','smallskill','git','sql'],
 }

@@ -1,4 +1,4 @@
-module.exports ={
+module.exports =
  // 导航栏配置
 [
       {text: 'Android', link: '/android/'},
@@ -21,4 +21,3 @@ module.exports ={
        ]
       }
 ]
-}
